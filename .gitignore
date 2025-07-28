@@ -1,0 +1,41 @@
+# Compiled binaries
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+# Documentation and interview prep files
+INTERVIEW_EXPLANATION.md
+QUICK_REFERENCE.md
+FINAL_STATUS.md
+README.md
+
+# Build scripts
+run.bat
+
+# IDE and editor files
+.vscode/
+.vs/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Backup files
+*.bak
+*.backup
+*~
